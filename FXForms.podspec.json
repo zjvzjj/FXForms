@@ -6,7 +6,7 @@
   "homepage": "https://github.com/nicklockwood/FXForms",
   "authors": "Nick Lockwood",
   "source": {
-    "git": "https://github.com/nicklockwood/FXForms.git",
+    "git": "https://github.com/nickl333ockwood/FXForms.git",
     "tag": "1.2.14"
   },
   "source_files": "FXForms/FXForms.{h,m}",
